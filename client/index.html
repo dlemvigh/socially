@@ -1,10 +1,14 @@
 <head>
-	<base href="/">
+	<title>Test</title>
+  <base href="/">
 </head>
 
-<body ng-app="socially">
-	<h1>
-		<a href="/parties">Home</a>
-	</h1>
-	<div ui-view></div>
+<body>
+	<div>
+		<meteor-include src="loginButtons"></meteor-include>
+		<h1>
+			<a href="/parties">Home</a>
+		</h1>
+		<div ui-view></div>
+	</div>
 </body>

@@ -12,3 +12,9 @@ accounts-ui
 angularutils:pagination
 tmeasday:publish-counts
 email
+angularui:angular-google-maps
+less
+angular:angular-material
+planettraining:material-design-icons
+cfs:standard-packages
+cfs:gridfs
